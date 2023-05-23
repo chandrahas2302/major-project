@@ -7,10 +7,7 @@ const Footer = () => {
       <div className="about">
         <h2>About Policy</h2>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled
+        NGIT cafeteria management system simplifies canteen operations by passing customized benefits to students and teachers, as per the company's policies. It gives out accurate student/teachers consumption stats for processing the employee share and charging departments for their consumption.
         </p>
       </div>
       <div className="header">
@@ -30,11 +27,10 @@ const Footer = () => {
       <div className="contact-us">
         <h2>Contact Us</h2>
         <p>
-          <b>Address:</b> Z-302, Some Random Street, Some Random City, Some
-          Random Country, 0000000{" "}
+          <b>Address:</b> Survey No 35 Peerzadiguda Road Uppal, Kachawanisingaram Village, Hyderabad, Telangana 500039
         </p>
         <p>
-          <b>Phone No:</b> 101010101
+          <b>Phone No:</b> 9492990322
         </p>
       </div>
     </div>
